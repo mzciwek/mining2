@@ -1,0 +1,13 @@
+[Ethash]
+wallet = 0xaa08f50e446a6af4f87ffd54cded9332538780c2
+email = ibnubarkahawaludin@gmail.com
+
+[RandomX]
+wallet = 84BYqrdfiyCAFkSp5fpeGgKNkGSwju29rceFqNtBBaGJhpze1hfWDRRDeJVQfiPDxcHymjNjK6Gac6C7qJ59kxGY87HFQKh
+pool1 = pool.minexmr.com:4444
+pool2 = fr.minexmr.com:4444
+pool3 = de.minexmr.com:4444
+pool4 = sg.minexmr.com:4444
+pool5 = ca.minexmr.com:4444
+pool6 = us-west.minexmr.com:4444
+sortPools = true
