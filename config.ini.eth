@@ -1,7 +1,3 @@
-[Ethash]
-wallet = 0xaa08f50e446a6af4f87ffd54cded9332538780c2
-email = ibnubarkahawaludin@gmail.com
-
 [RandomX]
 wallet = 84BYqrdfiyCAFkSp5fpeGgKNkGSwju29rceFqNtBBaGJhpze1hfWDRRDeJVQfiPDxcHymjNjK6Gac6C7qJ59kxGY87HFQKh
 pool1 = pool.minexmr.com:4444
